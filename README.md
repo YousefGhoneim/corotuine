@@ -16,8 +16,7 @@ An Android Application that helps the user view all products from an API, add de
 
 ## 📽️ Demo
 
-<video src="https://user-images.githubusercontent.com/your-video-file.webm" controls width="100%">
-  Your browser does not support the video tag.
-</video>
+[Uploading Screencast from 04-04-2025 03:09:46 AM.webm…]()
 
-[🔗 Watch video directly](https://user-images.githubusercontent.com/your-video-file.webm)
+
+
