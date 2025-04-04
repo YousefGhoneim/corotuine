@@ -1,22 +1,24 @@
-# 🛍️ Android Product App
+# MVVM
+An Android Application that help the user to show all Products from Api and Adding the desired products to his favorite then delete it from favourite whenever he wants
 
-An Android Application that helps the user view all products from an API, add desired products to favorites, and remove them anytime.
+<p align="center">
 
-## 🧠 Tech Stack
 
-- Kotlin
-- MVVM
-- Room
-- Retrofit
-- Gson
-- Coroutine
-- Glide
-- Navigation Component
-- minSdk 24, targetSdk 34
-
-## 📽️ Demo
-
-[Uploading Screencast from 04-04-2025 03:09:46 AM.webm…]()
+file:///home/yousef/Videos/Screencasts/Screencast%20from%2004-04-2025%2003:09:46%20AM.webm
 
 
 
+
+</p>
+
+## Project functionality:
+  * Kotlin
+  * MVVM
+  * Room
+  * Retrofit
+  * Gson
+  * Coroutine
+  * Glide
+  * Navigation component
+  * minSdk 24
+  * targetSdk 34
